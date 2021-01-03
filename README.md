@@ -3,6 +3,8 @@
 <img src="https://img.icons8.com/plasticine/30/000000/school.png"/> **study at KONKUK UNIV**   
 
 ### Personal Blog
+https://img.shields.io/badge/Naver-Blog-green
+
 
 
 
