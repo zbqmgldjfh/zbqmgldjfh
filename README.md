@@ -1,12 +1,13 @@
-# Hi! I'm JiWoo 👋
+## Hi! I'm JiWoo 👋
+### About me
+<img src="https://img.icons8.com/plasticine/30/000000/school.png"/> **study at KONKUK UNIV**
 
 
 
-<br>
 
-## Stacks 🌱
+### Stacks 🌱
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/linux.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
 <!--
 **zbqmgldjfh/zbqmgldjfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
