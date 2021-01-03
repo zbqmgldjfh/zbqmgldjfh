@@ -1,7 +1,8 @@
-## Hi! I'm JiWoo 👋
+## Hi! I'm JiWoo 👋   
 ### About me
-<img src="https://img.icons8.com/plasticine/30/000000/school.png"/> **study at KONKUK UNIV**
+<img src="https://img.icons8.com/plasticine/30/000000/school.png"/> **study at KONKUK UNIV**   
 
+### Personal Blog
 
 
 
