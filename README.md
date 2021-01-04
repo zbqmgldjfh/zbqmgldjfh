@@ -6,7 +6,7 @@
 ### Personal Page
 <a href="https://blog.naver.com/zbqmgldjfh">
     <img 
-        src="http://img.shields.io/badge/-Blog-lightblue?style=flat&logo=LINE&link=https://blog.naver.com/zbqmgldjfh"
+        src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=LINE&link=https://blog.naver.com/zbqmgldjfh"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 <a href="https://instagram.com/zbqmgldjfh">
