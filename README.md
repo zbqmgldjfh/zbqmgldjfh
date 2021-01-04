@@ -1,4 +1,5 @@
-## Hi! I'm JiWoo 👋   
+##  Hi, there 👋
+### I'm Ji woo
 ### About me
 <img src="https://img.icons8.com/plasticine/30/000000/school.png"/> **study at KONKUK UNIV**   
 
