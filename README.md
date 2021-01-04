@@ -3,7 +3,11 @@
 <img src="https://img.icons8.com/plasticine/30/000000/school.png"/> **study at KONKUK UNIV**   
 
 ### Personal Blog
-
+<a href="https://blog.naver.com/zbqmgldjfh">
+    <img 
+        src="http://img.shields.io/badge/-Blog-green?style=flat&logo=Blog&link=https://blog.naver.com/zbqmgldjfh"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
 
 
 
