@@ -1,8 +1,9 @@
 ##  Hi, there 👋
 ### I'm Ji woo
 ### < About me 😄 >
-<img src="https://img.icons8.com/plasticine/30/000000/school.png"/> **study at KONKUK UNIV**   
-
+**1. study at KONKUK UNIV**   
+**2. 실생활에 이용가능한 Mini-progect 만들기를 좋아함**
+**3. C언어가 가장 자신있음
 ### < Personal Page 💬 >
 <a href="https://blog.naver.com/zbqmgldjfh">
     <img 
