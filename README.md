@@ -6,8 +6,13 @@
 ### Personal Blog
 <a href="https://blog.naver.com/zbqmgldjfh">
     <img 
-        src="http://img.shields.io/badge/-Blog-green?style=flat&logo=Blog&link=https://blog.naver.com/zbqmgldjfh"
+        src="http://img.shields.io/badge/-Blog-green?style=flat&logo=Blogger&link=https://blog.naver.com/zbqmgldjfh"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
+<a href="https://instagram.com/zbqmgldjfh">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/zbqmgldjfh"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 
