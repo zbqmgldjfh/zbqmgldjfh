@@ -3,7 +3,7 @@
 ### < About me 😄 >
 **1. study at KONKUK UNIV**   
 **2. 실생활에 이용가능한 Mini-progect 만들기를 좋아함**   
-**3. C언어가 가장 자신있음**
+**3. 배움에 대한 열망을 갖고 살아가고 있습니다!**
 ### < Personal Page 💬 >
 <a href="https://blog.naver.com/zbqmgldjfh">
     <img 
