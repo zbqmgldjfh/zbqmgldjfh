@@ -4,6 +4,11 @@
 **1. study at KONKUK UNIV**   
 **2. 실생활에 이용가능한 Mini-progect 만들기를 좋아함**   
 **3. 배움에 대한 열망을 갖고 살아가고 있습니다!**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbqmgldjfh&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbqmgldjfh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### < Personal Page 💬 >
 <a href="https://blog.naver.com/zbqmgldjfh">
     <img 
