@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbqmgldjfh&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbqmgldjfh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbqmgldjfh&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### < Personal Page 💬 >
 <a href="https://blog.naver.com/zbqmgldjfh">
@@ -21,7 +21,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
+주로 Blog에 기록을 남기고 있습니다. github보단 글작성에 좀더 편하다 생각하여 알고리즘 풀이, 독서후기 등은 모두 블로그에 기록중 입니다.
 
 ### < Stacks 🌱 >
 
