@@ -1,15 +1,14 @@
 ##  Hi, there 👋
 ### I'm Ji woo
-### < About me 😄 >
+### About me 😄
 **1. study at KONKUK UNIV**   
-**2. 실생활에 이용가능한 Mini-progect 만들기를 좋아함**   
-**3. 배움에 대한 열망을 갖고 살아가고 있습니다!**
+**2. Member of 2022 Codesquad Masters Course Backend Class**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbqmgldjfh&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbqmgldjfh&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-### < Personal Page 💬 >
+### Personal Page 💬
 <a href="https://blog.naver.com/zbqmgldjfh">
     <img 
         src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=LINE&link=https://blog.naver.com/zbqmgldjfh"
@@ -23,7 +22,7 @@
 
 주로 Blog에 기록을 남기고 있습니다. github보단 글작성에 좀더 편하다 생각하여 알고리즘 풀이, 독서후기 등은 모두 블로그에 기록중 입니다.
 
-### < Stacks 🌱 >
+### Stacks 🌱
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/linux.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
