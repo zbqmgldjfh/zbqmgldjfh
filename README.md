@@ -4,7 +4,7 @@
 **1. study at KONKUK UNIV**   
 **2. Member of 2022 Codesquad Masters Course Backend Class**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbqmgldjfh&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbqmgldjfh&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbqmgldjfh&show_icons=true&theme=gruvbox)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbqmgldjfh&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Personal Page 💬
 <a href="https://blog.naver.com/zbqmgldjfh">
