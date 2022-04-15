@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B89DC,50:8BB3E8,100:8DD6DC&height=300&section=header&text=Shine's%20github&fontSize=60&fontAlignY=50&fontColor=FFFFFF&fontAlign=70)
 ##  Hi, there 👋
-- 안녕하세요! 웹개발자 Shine이라고 합니다!
+- 안녕하세요! Backend Junior Developer Shine이라고 합니다!
 ### About me 😄
 **1. study at KONKUK UNIV**   
 **2. Member of 2022 Codesquad Masters Course Backend Class**
