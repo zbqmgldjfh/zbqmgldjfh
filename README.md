@@ -10,11 +10,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zbqmgldjfh)](https://solved.ac/zbqmgldjfh)
 
 ### Personal Page 💬
-<a href="https://blog.naver.com/zbqmgldjfh">
+<!-- <a href="https://blog.naver.com/zbqmgldjfh">
     <img 
         src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=LINE&link=https://blog.naver.com/zbqmgldjfh"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
+</a> -->
 <a href="https://instagram.com/zbqmgldjfh">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/zbqmgldjfh"
