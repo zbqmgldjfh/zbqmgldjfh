@@ -5,7 +5,8 @@
 - 안녕하세요! Backend Developer를 희망하는 Shine이라고 합니다!
 ### About me 😄
 **1. study at KONKUK UNIV**   
-**2. Member of 2022 Codesquad Masters Course Backend Class**
+**2. Member of 2022 Codesquad Masters Course Backend Class**  
+**3. Member of NextStep, ATDD CleanCode with Spring Class**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbqmgldjfh&show_icons=true&theme=gruvbox)
     
