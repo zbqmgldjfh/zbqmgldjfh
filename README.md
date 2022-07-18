@@ -26,10 +26,12 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     
-### Stacks 🌱
+### Stacks 💻
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/linux.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-
+<img src="https://img.shields.io/badge/Java-yellowgreen?style=flastic&logo=Java&logoColor=#007396"/> <img src="https://img.shields.io/badge/GitHub-lightgrey?style=flastic&logo=GitHub&logoColor=#181717"/> <img src="https://img.shields.io/badge/Spring-9cf?style=flastic&logo=Spring&logoColor=#6DB33F"/>  <img src="https://img.shields.io/badge/SpringBoot-9cf?style=flastic&logo=Spring-Boot&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Hibernate-success?style=flastic&logo=Hibernate&logoColor=#59666C"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-important?style=flastic&logo=IntelliJ-IDEA&logoColor=#181717"/>   \
+<img src="https://img.shields.io/badge/Linux-yellow?style=flastic&logo=Linux&logoColor=#181717"/>
+ <img src="https://img.shields.io/badge/Gradle-success?style=flastic&logo=Gradle&logoColor=#181717"/> <img src="https://img.shields.io/badge/Amazon AWS-informational?style=flastic&logo=Amazon-AWS&logoColor=#181717"/>
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <!--
 **zbqmgldjfh/zbqmgldjfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
