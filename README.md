@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B89DC,50:8BB3E8,100:8DD6DC&height=300&section=header&text=Shine's%20github&fontSize=60&fontAlignY=50&fontColor=FFFFFF&fontAlign=70)
 ##  Hi, there 👋
-- 안녕하세요! Backend Developer를 희망하는 Shine이라고 합니다!
+- 🌱 안녕하세요! 성장을 열망하는 개발자 Shine이라고 합니다!
 ### About me 😄
 **1. study at KONKUK UNIV**   
 **2. Member of 2022 Codesquad Masters Course Backend Class**  
@@ -15,16 +15,18 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zbqmgldjfh)](https://solved.ac/zbqmgldjfh)
 ----
 ### Personal Page 💬
-<!-- <a href="https://blog.naver.com/zbqmgldjfh">
+<a href="https://blogshine.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=LINE&link=https://blog.naver.com/zbqmgldjfh"
+        src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=Tistory&link=https://blog.naver.com/zbqmgldjfh"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a> -->
+</a>
+<!--
 <a href="https://instagram.com/zbqmgldjfh">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/zbqmgldjfh"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+-->
     
 ### Stacks 💻
 
@@ -46,4 +48,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:4B89DC,50:8BB3E8,100:8DD6DC&section=footer&fontAlignY=50)
 </div>
