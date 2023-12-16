@@ -17,6 +17,7 @@
 2. Member of 2022 Codesquad Masters Course Backend Class (22.01.03 ~ 22.07.01)  
 3. Member of NextStep, ATDD CleanCode with Spring Class (2022-07-04 ~ 2022-08-17)
 4. 넥스터즈 22, 23기 BE Developer (2023.01 ~ 2023.03, 2023.07 ~ 2023.08)
+5. Google Developer Student Server Core Member (2023.09 ~ )
 
 ### Certificates
 |자격증명|주최기관|일자|
