@@ -4,20 +4,24 @@
 - 의사 소통을 최우선 가치로 여기며, 작업을 체계적으로 수행하는 것을 좋아합니다.
 - 지속적인 성장을 위해 도전하고, 노력하고 있습니다🔥
 
+### Open Source Contributions
+- [spring-ai](https://github.com/spring-projects/spring-ai/pulls?q=is%3Apr+author%3Azbqmgldjfh)
+  - Add additional tests for Document metadata and `TextTokenSplitter` : [#934](https://github.com/spring-projects/spring-ai/pull/934) , [code](https://github.com/spring-projects/spring-ai/commit/3bec210b802e7238dd096017e72d09db7a628864)
+
+### Education & Experience
+0. Backend Developer (Kotlin, Java, Spring)
+1. study at KONKUK UNIV (2018.03 ~ )   
+2. Member of 2022 Codesquad Masters Course Backend Class (22.01.03 ~ 22.07.01)  
+3. Member of NextStep, ATDD CleanCode with Spring Class (2022.07.04 ~ 2022.08.17)
+4. 넥스터즈 22, 23기 BE Developer (2023.01 ~ 2023.03, 2023.07 ~ 2023.08)
+5. Google Developer Student Server Core Member (2023.09 ~ 2024.06.26)
+
 ### Personal Page 💬
 <a href="https://blogshine.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=Tistory&link=https://blog.naver.com/zbqmgldjfh"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
-
-### Education & Experience
-0. Backend Developer (Kotlin, Java, Spring)
-1. study at KONKUK UNIV (2018.03 ~ )   
-2. Member of 2022 Codesquad Masters Course Backend Class (22.01.03 ~ 22.07.01)  
-3. Member of NextStep, ATDD CleanCode with Spring Class (2022-07-04 ~ 2022-08-17)
-4. 넥스터즈 22, 23기 BE Developer (2023.01 ~ 2023.03, 2023.07 ~ 2023.08)
-5. Google Developer Student Server Core Member (2023.09 ~ )
 
 ### Certificates
 |자격증명|주최기관|일자|
@@ -29,14 +33,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zbqmgldjfh)](https://solved.ac/zbqmgldjfh)
 ----
-
-<!--
-<a href="https://instagram.com/zbqmgldjfh">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/zbqmgldjfh"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
--->
     
 ### Stacks 💻
 
