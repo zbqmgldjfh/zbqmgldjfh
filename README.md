@@ -10,7 +10,7 @@
   - Fix `MilvusVectorStore` max allowed dimension size to 32768 : [#1008](https://github.com/spring-projects/spring-ai/pull/1008) , [code](https://github.com/spring-projects/spring-ai/commit/69311483779842d857016e80b991467bda0aa32e)
 
 ### Education & Experience
-0. Backend Developer (Kotlin, Java, Spring)
+0. Backend Developer (Kotlin, Java, Spring, Ruby, RoR, Python, DRF)
 1. study at KONKUK UNIV (2018.03 ~ )   
 2. Member of 2022 Codesquad Masters Course Backend Class (22.01.03 ~ 22.07.01)  
 3. Member of NextStep, ATDD CleanCode with Spring Class (2022.07.04 ~ 2022.08.17)
