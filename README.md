@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle" />
   </a> <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,c,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,python,django,cpp" />
   </a> <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,docker,linux,aws,jenkins" />
