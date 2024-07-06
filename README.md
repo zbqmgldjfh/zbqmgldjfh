@@ -7,6 +7,7 @@
 ### Open Source Contributions
 - [spring-ai](https://github.com/spring-projects/spring-ai/pulls?q=is%3Apr+author%3Azbqmgldjfh)
   - Add additional tests for Document metadata and `TextTokenSplitter` : [#934](https://github.com/spring-projects/spring-ai/pull/934) , [code](https://github.com/spring-projects/spring-ai/commit/3bec210b802e7238dd096017e72d09db7a628864)
+  - Fix `MilvusVectorStore` max allowed dimension size to 32768 : [#1008](https://github.com/spring-projects/spring-ai/pull/1008) , [code](https://github.com/spring-projects/spring-ai/commit/69311483779842d857016e80b991467bda0aa32e)
 
 ### Education & Experience
 0. Backend Developer (Kotlin, Java, Spring)
@@ -19,7 +20,7 @@
 ### Personal Page 💬
 <a href="https://blogshine.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=Tistory&link=https://blog.naver.com/zbqmgldjfh"
+        src="http://img.shields.io/badge/-Tech%20Blog-blue?style=flat&logo=Tistory&link=https://blog.naver.com/zbqmgldjfh"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
@@ -35,11 +36,36 @@
 ----
     
 ### Stacks 💻
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle" />
+  </a> <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,c,cpp,python" />
+  </a> <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,docker,linux,aws,jenkins" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/Java-yellowgreen?style=flastic&logo=Java&logoColor=#007396"/> <img src="https://img.shields.io/badge/Kotlin-yellowgreen?style=flastic&logo=Kotlin&logoColor=#007396"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-success?style=flastic&logo=Hibernate&logoColor=#59666C"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-lightgrey?style=flastic&logo=GitHub&logoColor=#181717"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-important?style=flastic&logo=IntelliJ-IDEA&logoColor=#181717"/>   \
-<img src="https://img.shields.io/badge/Linux-yellow?style=flastic&logo=Linux&logoColor=#181717"/> 
- <img src="https://img.shields.io/badge/Gradle-success?style=flastic&logo=Gradle&logoColor=#181717"/> <img src="https://img.shields.io/badge/Amazon AWS-informational?style=flastic&logo=Amazon-AWS&logoColor=#181717"/>
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<!-- <p align="left">
+    <img src="https://img.shields.io/badge/Java-yellowgreen?style=flastic&logo=Java&logoColor=#007396"/> 
+    <img src="https://img.shields.io/badge/Kotlin-yellowgreen?style=flastic&logo=Kotlin&logoColor=#007396"/> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Hibernate-success?style=flastic&logo=Hibernate&logoColor=#59666C"/>
+</p>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/GitHub-lightgrey?style=flastic&logo=GitHub&logoColor=#181717"/> 
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-important?style=flastic&logo=IntelliJ-IDEA&logoColor=#181717"/>
+    <img src="https://img.shields.io/badge/Linux-yellow?style=flastic&logo=Linux&logoColor=#181717"/> 
+    <img src="https://img.shields.io/badge/Gradle-success?style=flastic&logo=Gradle&logoColor=#181717"/> 
+    <img src="https://img.shields.io/badge/Amazon AWS-informational?style=flastic&logo=Amazon-AWS&logoColor=#181717"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+</p> -->
+
 <!--
 **zbqmgldjfh/zbqmgldjfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
